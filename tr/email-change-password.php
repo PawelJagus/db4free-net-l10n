@@ -7,19 +7,19 @@ Language: Turkish, Türkçe
 $translations = array(
     'email' => 'Şifre değiştirme talebinizi aldık.
 
-Yeni verileriniz şöyledir:
+Yeni verileriniz şu şekildedir:
 
-Veritabanı Kullanıcı Adı: {$user}
+Veritabanı kullanıcı adı: {$user}
 Şifre: {$newData}
 
-Aşağıdaki linke tıklayarak bu değişikliği onaylayınız:
+Lütfen aşağıdaki linke tıklayarak bu değişikliği onaylayınız:
 
 {$mailLink}
-db4free.net şifrenizi değiştirmek istemediyseniz bu e-postayı yoksayabilirsiniz!
+db4free.net veritabanı şifrenizi değiştirmek istemediyseniz bu e-postayı yok sayabilirsiniz!
 
 Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

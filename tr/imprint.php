@@ -11,9 +11,9 @@ $translations = array(
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
-    'h2' => 'İlişkili Projeler',
+    'h2' => 'Associated projeler',
 
-    'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
+    'p3' => '<a href="https://www.mpopp.net">mpopp.net</a>',
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für Mediendesigner (mit Farbumrechner uvm.)</a>',
 
